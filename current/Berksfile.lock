@@ -10,7 +10,7 @@ DEPENDENCIES
     revision: 56f5c29fac553d8409bed51e401b3834108e177c
   b-goapp
     git: git://github.com/tnargnai/b-goapp.git
-    revision: 3b01889ee37f6e842b154428592c90f75068a019
+    revision: 25d375e6d9994d213dd6e24c6d41ef73c59b54ed
   b-nginx
     git: git://github.com/tnargnai/b-nginx.git
     revision: 9c318564a39e9b9a97b5ba40cbe63a7c93d7e66e
@@ -26,7 +26,7 @@ GRAPH
   apt (2.9.2)
   b-base (0.1.0)
     yum (>= 0.0.0)
-  b-goapp (0.1.2)
+  b-goapp (0.1.3)
     apt (>= 0.0.0)
     golang (>= 0.0.0)
     yum (>= 0.0.0)
