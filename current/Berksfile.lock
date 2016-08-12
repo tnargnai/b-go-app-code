@@ -13,7 +13,7 @@ DEPENDENCIES
     revision: 25d375e6d9994d213dd6e24c6d41ef73c59b54ed
   b-nginx
     git: git://github.com/tnargnai/b-nginx.git
-    revision: 9c318564a39e9b9a97b5ba40cbe63a7c93d7e66e
+    revision: 92717578a7deb13a497412b58a73997fa2dba41a
 
 GRAPH
   7-zip (1.0.2)
@@ -30,7 +30,7 @@ GRAPH
     apt (>= 0.0.0)
     golang (>= 0.0.0)
     yum (>= 0.0.0)
-  b-nginx (0.1.1)
+  b-nginx (0.1.2)
     apt (>= 0.0.0)
     nginx (~> 2.7.5)
     yum (>= 0.0.0)
