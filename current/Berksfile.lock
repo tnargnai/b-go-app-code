@@ -13,12 +13,12 @@ DEPENDENCIES
     revision: 25d375e6d9994d213dd6e24c6d41ef73c59b54ed
   b-nginx
     git: git://github.com/tnargnai/b-nginx.git
-    revision: 92717578a7deb13a497412b58a73997fa2dba41a
+    revision: b806a76f9175a8b2a5c429365d24bf3d03c103d7
 
 GRAPH
   7-zip (1.0.2)
     windows (>= 1.2.2)
-  app-cookbook (0.1.0)
+  app-cookbook (0.1.1)
     app-helper (>= 0.1.0)
     b-goapp (>= 0.1.0)
     b-nginx (>= 0.1.1)
@@ -49,7 +49,7 @@ GRAPH
     runit (~> 1.2)
     yum-epel (~> 0.3)
   ohai (2.1.0)
-  packagecloud (0.2.4)
+  packagecloud (0.2.5)
   rsyslog (4.0.1)
     compat_resource (>= 0.0.0)
   runit (1.8.0)
